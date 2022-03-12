@@ -1,0 +1,12 @@
+config.py
+static/
+.env
+.venv
+.idea
+
+*.jp?g
+*.png
+*.gif
+*.svg
+*.pdf
+*.xls?
