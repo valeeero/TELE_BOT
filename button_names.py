@@ -1,6 +1,6 @@
 from models import create_object
 
-main_manu = '''Головне меню'''
+m_m = '''Головне меню'''
 order = '''Замовити'''
 contact = '''Зв'язатися з нами'''
 exist = '''Наявність товару'''
