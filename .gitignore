@@ -10,3 +10,4 @@ static/
 *.svg
 *.pdf
 *.xls?
+__pycache__/
